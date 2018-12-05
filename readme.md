@@ -27,7 +27,7 @@ Three interactive functions are provided
 |------------------------------------|-------------------------------------------------|
 | `theme-manager-list-active-themes` | List all active themes                          |
 | `theme-manager-disable-all-themes` | Disable all active themes                       |
-| `theme-manager-change-theme`       | Disable current theme(s) and enable a new theme |
+| `theme-manager-change-theme`       | Disable active theme(s) and enable a new theme |
 
 ## Related
 
